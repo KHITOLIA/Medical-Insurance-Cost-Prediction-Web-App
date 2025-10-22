@@ -1,5 +1,3 @@
-Absolutely! Here’s a **complete, step-by-step README** for your Medical Insurance Prediction & EDA project using Streamlit. This includes setup, running instructions, dataset info, and additional notes for enhancements.
-
 ---
 
 # 💰 Medical Insurance Cost Prediction & EDA
@@ -184,7 +182,3 @@ live link of this web-app : https://medical-insurance-cost-prediction-web-app.st
 * [Seaborn Documentation](https://seaborn.pydata.org/)
 
 ---
-
-If you want, I can **also create a ready-to-use `requirements.txt` and sample `model.pkl` script** so anyone can just download and run your app instantly.
-
-Do you want me to do that next?
