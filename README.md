@@ -13,7 +13,7 @@ It also provides an **interactive EDA dashboard** to explore insights from the d
 * Interactive **EDA dashboard** with charts for Age, BMI, Smoker analysis, Region, and Charges distribution.
 * Modern **Streamlit interface** with sliders, select boxes, and theme toggle.
 * Dataset summary and statistics cards.
-* Gradient Boosting Regressor model for better predictions (R² ≈ 0.8–0.85).
+* Linear Regressor model (R² ≈ 0.8–0.85).
 
 ---
 
