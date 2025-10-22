@@ -101,7 +101,7 @@ http://localhost:8501
 ```
 
 ---
-
+live link of this web-app : https://medical-insurance-cost-prediction-web-app.streamlit.app/
 ## **🧮 How It Works**
 
 ### **Prediction**
