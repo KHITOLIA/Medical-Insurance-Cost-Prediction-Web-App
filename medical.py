@@ -52,7 +52,7 @@ if page == "Predict Insurance Cost":
 # Data Visualization Page
 # ----------------------
 elif page == 'Home':
-    st.title("📊 Medical Insurance Data Visualization")
+    st.title("📊 Medical Diagnosis App")
     st.write("View various statistics and distributions in the insurance dataset.")
 
     tabs = st.tabs(['Statistics', 'Age Distribution', 'BMI Distribution', 'Charge Distribution', 'Gender Analysis', 'Children Analysis', 'Smoker Analysis', 'Region Analysis'])
