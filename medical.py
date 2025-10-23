@@ -279,7 +279,7 @@ def dashboard():
             st.subheader('Report Summary')
             st.write(""" 
 
-####     **Medical Insurance Data Analysis Report**
+#### **Medical Insurance Data Analysis Report**
 
 #### **1. Dataset Overview**
 

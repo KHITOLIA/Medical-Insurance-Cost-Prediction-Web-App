@@ -1,5 +1,3 @@
-Absolutely! Here’s a **complete, step-by-step README** for your Medical Insurance Prediction & EDA project using Streamlit. This includes setup, running instructions, dataset info, and additional notes for enhancements.
-
 ---
 
 # 💰 Medical Insurance Cost Prediction & EDA
@@ -15,7 +13,7 @@ It also provides an **interactive EDA dashboard** to explore insights from the d
 * Interactive **EDA dashboard** with charts for Age, BMI, Smoker analysis, Region, and Charges distribution.
 * Modern **Streamlit interface** with sliders, select boxes, and theme toggle.
 * Dataset summary and statistics cards.
-* Gradient Boosting Regressor model for better predictions (R² ≈ 0.8–0.85).
+* Linear Regressor model (R² ≈ 0.8–0.85).
 
 ---
 
@@ -101,7 +99,7 @@ http://localhost:8501
 ```
 
 ---
-
+live link of this web-app : https://medical-insurance-cost-prediction-web-app.streamlit.app/
 ## **🧮 How It Works**
 
 ### **Prediction**
@@ -184,7 +182,3 @@ http://localhost:8501
 * [Seaborn Documentation](https://seaborn.pydata.org/)
 
 ---
-
-If you want, I can **also create a ready-to-use `requirements.txt` and sample `model.pkl` script** so anyone can just download and run your app instantly.
-
-Do you want me to do that next?
